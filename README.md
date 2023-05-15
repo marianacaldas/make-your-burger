@@ -1,19 +1,15 @@
-# make_burger
+Tecnologias Utilizadas:
+- HTML
+- CSS
+- JS
+- VUE
 
-## Project setup
-```
-npm install
-```
+![image](https://github.com/marianacaldas/make-your-burger/assets/23060253/8448df11-705a-429e-94a3-85589afa5767)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image](https://github.com/marianacaldas/make-your-burger/assets/23060253/5a594b4e-cb97-4341-9bd2-1ce223c96eca)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![image](https://github.com/marianacaldas/make-your-burger/assets/23060253/a8de3605-f77e-4c01-b80c-ef232943743c)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
